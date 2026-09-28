@@ -21,4 +21,6 @@ undefined
 alert('Shweta')
 undefined
 
+document.body.innerHTML = 'Good morning!';
+
 */
