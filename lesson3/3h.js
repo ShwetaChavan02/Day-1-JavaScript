@@ -1,3 +1,3 @@
 //same as 3g use template string and interpolation
 
-'Total cost : $$ {5.99 + 2.95}'
+`Total cost: $${(599 + 295) / 100}`
